@@ -8,6 +8,7 @@ class Spring2ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.pring("Sdf");
     }
 
 }
